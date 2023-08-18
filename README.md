@@ -13,9 +13,9 @@ randomNum = random.randint(1, 11)
 #randomNum now hold a random from 1 to 11 inclusive
 
 ```
-5. **Betting System:** Introduce a basic betting system where players can place bets at the beginning of each round.
-6. **Scoring and Winning Conditions:** Implement scoring mechanics to determine the winner of each round based on hand values, accounting for cases of busting (exceeding 21) and achieving a blackjack.
-7. **Game Flow:** Design a game loop that guides players through the various stages of the game, including initial card dealing, player actions, dealer actions, and determining the winner.
+4. **[BONUS]Betting System:** Introduce a basic betting system where players can place bets at the beginning of each round.
+5. **Scoring and Winning Conditions:** Implement scoring mechanics to determine the winner of each round based on hand values, accounting for cases of busting (exceeding 21) and achieving a blackjack.
+6. **Game Flow:** Design a game loop that guides players through the various stages of the game, including initial card dealing, player actions, dealer actions, and determining the winner.
 **Coding Style:**
 - Use descriptive variable names in camel case (e.g., `player_hand`, `dealer_hand`, `current_bet`).
 - Apply proper indentation for readability.
